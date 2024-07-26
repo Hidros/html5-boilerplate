@@ -2,4 +2,11 @@ archive
 node_modules
 package-lock.json
 
+# Ignore file
 /credentials.py
+
+# Ignore folder
+#text/
+
+# Ignore only txt files
+text/*.txt
